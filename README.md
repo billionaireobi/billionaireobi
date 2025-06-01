@@ -1,14 +1,14 @@
 # Hi, I'm Eugine Obiero! 👋
 
-I'm a passionate Software Engineering student at Multimedia University, constantly exploring the world of technology and striving to improve my skills. I believe in the power of learning and sharing knowledge, and I’m always open to connecting with like-minded individuals.
+I'm a passionate Software Engineer, constantly exploring the world of technology and striving to improve my skills. I believe in the power of learning and sharing knowledge, and I’m always open to connecting with like-minded individuals.
 
 ![billionaireobi's Stats](https://github-readme-stats.vercel.app/api?username=billionaireobi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I’m currently pursuing my Bachelor's degree in Software Engineering at Multimedia University, where I’m diving deep into various aspects of tech development, from back-end solutions to front-end design.
+- 🔭 I have a Bachelor's degree in Software Engineering from Multimedia University, I’m diving deep into various aspects of tech development, from back-end solutions to front-end design.
 - - 🌐 I’m passionate about technology and software development, focusing on creating innovative and efficient solutions.
-- 🖥️ I’m working on personal projects, including an inventory management system and a hospital management system, using frameworks like Django to build robust web applications.
+- 🖥️ I’m working on personal projects, including an inventory management system,production monitoring system,order management system,an AI news aggregator webapp and a hospital management system, using frameworks like Django to build robust web applications.
 - 🌱 I’m always exploring new technologies to improve my skills, such as Full Stack Web Development and Machine Learning.
 - 💬 Ask me about software engineering, web development, and how to improve your code!
 - ✍️ I enjoy writing and sharing my thoughts on tech, coding, and my journey as a student.
